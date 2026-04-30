@@ -1,0 +1,9 @@
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\bin\Debug\SarjProjesi.exe.config
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\bin\Debug\SarjProjesi.exe
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\bin\Debug\SarjProjesi.pdb
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.csproj.AssemblyReference.cache
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.Properties.Resources.resources
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.csproj.GenerateResource.cache
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.csproj.CoreCompileInputs.cache
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.exe
+C:\Users\erici\source\repos\SarjProjesi\SarjProjesi\obj\Debug\SarjProjesi.pdb
