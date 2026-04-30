@@ -1,2 +1,19 @@
-# Elektrikli-Ara-arj-stasyonu-Yerle-im-Planlama-Sistemi
-Bu proje, elektrikli araçların artan kullanımına bağlı olarak şarj istasyonlarının en uygun şekilde konumlandırılmasını amaçlayan bir 'karar destek sistemi' geliştirmektedir. Sistem, grid tabanlı bir model kullanarak her bir aday konum için uygunluk skorları hesaplar ve bu skorları sıralayarak en uygun yerleşim noktalarını belirler.
+# Elektrikli Araç Şarj İstasyonu Yerleşim Sistemi
+
+Bu proje, elektrikli araçlar için en uygun şarj istasyonu konumlarını belirlemek amacıyla geliştirilmiştir.
+
+## Kullanılan Teknolojiler
+- C#
+- .NET 6
+- WPF
+
+## Algoritmalar
+- Quick Sort
+- Merge Sort
+- Heap Sort
+
+## Açıklama
+Grid tabanlı sistemde trafik yoğunluğuna göre uygunluk skoru hesaplanarak en iyi konumlar belirlenir.
+
+## Rapor
+docs klasöründe proje raporu bulunmaktadır.
